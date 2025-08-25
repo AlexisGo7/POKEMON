@@ -1,0 +1,22 @@
+body {
+  background-color: rgba(0, 4, 130, 0.438);
+}
+
+h1 {
+  background-color: rgb(255, 0, 251);
+  color: rgb(255, 255, 255);
+}
+h2 {
+  background-color: blueviolet;
+  color: white;
+}
+
+h3 {
+  background-color: rgb(57, 0, 76);
+  color: white;
+}
+
+p {
+  background-color: rgb(77, 4, 146);
+  color: white;
+}

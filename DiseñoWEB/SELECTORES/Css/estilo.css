@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#Logo {
+  margin-left: 50px;
+  box-shadow: 2px 2px red;
+  border-radius: 20px;
+  padding: 5px;;
+}
+
+.naranja{
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    font-size: 25px;
+}
+
+.destacada{
+    font-size: 15px;
+    color: white;
+    background-color: blueviolet;
+    font-size: 30px;
+}
+
+button{
+    color: white;
+    background-color: blueviolet;
+    padding: 30px 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+button:hover{
+    background-color: aqua;
+    color: black;
+}

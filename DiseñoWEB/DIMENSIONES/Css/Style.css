@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.caja-naranja {
+  border: 5px double rgb(255, 2, 11);
+}
+.caja1 {
+  margin-top: 10px;
+  width: 500px;
+  height: 250px;
+  background-color: orange;
+}
+
+.caja3 {
+  width: 50%;
+  height: 50%;
+  background-color: rgb(138, 7, 7);
+}
+
+.caja2 {
+  width: 500px;
+  margin-top: 50px;
+  background-color: rebeccapurple;
+  color: white;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.cita{
+    width: 80%;
+    height: 80px;
+    background-color: rgb(169, 187, 185);
+    margin: 10px auto;
+    text-align: center;
+    font-size: 30
+    px;
+    overflow-y: auto;
+    
+}

@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2 {
+  font-family: "Sigmar One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 2px 2px 4px red;
+  text-align: center;
+}
+
+p {
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 30px;
+  text-shadow: 2px 2px 4px red;
+  text-align: center;
+}
+
+.cita {
+  font-weight: 700;
+  text-align: center;
+  color: crimson;
+  line-height: 3.5;
+  background-color: rgb(238, 238, 255);
+  font-size: 50px;
+}
+
+.banda {
+  text-shadow: 2px 2px 4px red;
+}
+
+.MAYS {
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 20px;
+  text-shadow: 2px 2px 4px red;
+}
+
+.MIN {
+  text-transform: lowercase;
+  text-shadow: 2px 2px 4px red;
+  text-align: center;
+}
+
+.CAP {
+  text-transform: capitalize;
+  text-shadow: 2px 2px 4px red;
+  text-align: center;
+}
+
+.ACT {
+  text-shadow: 2px 2px 4px rgb(225, 0, 255);
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  text-transform: uppercase;
+  text-decoration: wavy underline blue;
+}
+
